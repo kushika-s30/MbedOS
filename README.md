@@ -2,4 +2,6 @@
 
 This project uses the I2C interface to connect the SRF08 Ultrasonic Sensor to the mbed LPC1768. A Lilypad Vibe1 motor is used as an alarm to alert the user when a stalker is detected in the given range of 70 cm or lesser. 
 
+LillyPad LIL-1878 Power Supply (5 Volts) is used to power the circuit.
+
 The zip file consists the source code of the project and all the required *mbed.h* library files.
