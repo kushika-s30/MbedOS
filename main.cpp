@@ -1,14 +1,5 @@
 // STALKER ALARM using mbed LPC1768 and SRF08 Ultrasonic Sensor via I2C Interface
 // Code Written by Kushika Sivaprakasam
-// On 23/06/2021
-/*# STALKER ALARM using the mbed-LPC1768 and SRF08 Ultrasonic Sensor via I2C Interface.
-
-Mbed is an operating system and C++ based IDE for internet-connected devices based on 32-bit ARM Cortex-M microcontrollers. 
-
-This MbedOS-based project uses the I2C interface to connect the SRF08 Ultrasonic Sensor to the mbed LPC1768. A Lilypad Vibe1 motor is used as an alarm to alert the user when a stalker is detected in the given range of 70 cm or lesser.
-
-The zip file consists the source code of the project and all the required *mbed.h* library files.
-*/
 
 #include "mbed.h"
 
